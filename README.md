@@ -36,4 +36,4 @@ Configuration Instructions:
 	3. In BIPS Callback URL (https://bips.me/merchant) Enter the link to your callback of BIPS WHMCS Payment Module. (http://YOUR_WHMCS_URL/modules/gateways/callback/BIPS.php)
 	4. Enter a strong Secret in Merchant SECRET.
 	5. In module settings "API" <- set your BIPS API Key, which can be generate under API Keys, Invoice.
-	7. In module settings "Secret" <- Enter your BIPS Merchant Secret.
+	6. In module settings "Secret" <- Enter your BIPS Merchant Secret.
