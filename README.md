@@ -21,7 +21,7 @@ THE SOFTWARE.
 About
 	Bitcoin payments via BIPS for WHMCS.
 
-Version 0.1
+Version 0.2
 	Currency convert between all currencies automatically.
 	
 System Requirements:
